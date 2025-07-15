@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhijit-exe
-- 👀 I’m interested in Ai-ML programmingg
-- 🌱 I’m currently learning about new Machine Learning concepts and algorithms
+- 👀 I’m interested in AI-ML programming
+- 🌱 I am currently learning about new and evolving concepts in AI
 - 💞️ I’m looking to collaborate on Machine Learning/Deep Learning projects
 - 📫 How to reach me gmail: abhijitk.work@gmail.com, linkedIn: linkedin.com/in/abhijit-kshirsagar-093482259/
 - 😄 Pronouns: he/him
