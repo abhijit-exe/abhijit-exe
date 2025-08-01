@@ -1,8 +1,8 @@
 # Hi, I'm Abhijit Kshirsagar
 
-I am a final-year undergraduate student pursuing Engineering with an Honors in Deep Learning. I am currently exploring AI/ML, NLP, and Computer Vision through internships, online certifications, and hands-on projects.
+I am a final year undergraduate student pursuing Engineering with an Honors in Deep Learning. I am currently exploring AIML, NLP, and Computer Vision through internships, online certifications, and hands-on projects.
 
-This GitHub is a collection of the projects I've worked on, some course-related, some self-initiated, where I try to apply what I am learning to solve real-world problems in a simple and understandable way.
+This GitHub is a collection of the projects I have worked on, some course related, some self initiated, where I try to apply what I am learning to solve real-world problems in a simple and understandable way.
 
 ---
 
@@ -35,8 +35,7 @@ Built an LLM-powered tool that takes input files and answers questions about the
 ## 👨‍💻 Internships & Experience
 
 - **Persistent Systems** – Interned in NLP domain; worked on culture specific summarization using custom LLMs.
-- Completed **Stanford's Machine Learning Specialization** and **TensorFlow Developer Certificate** (DeepLearning.AI)
-- Participated in AI innovation challenges and campus hackathons.
+- Completed **Stanford's Machine Learning Specialization** and **TensorFlow Developer Certificate**
 
 ---
 
@@ -48,5 +47,5 @@ Built an LLM-powered tool that takes input files and answers questions about the
 ---
 
 Thanks for visiting!  
-This GitHub is still a work in progress—just like me. I am constantly learning, open to collaboration, and always trying to get better.
+This GitHub is still a work in progress, just like me. I am constantly learning, open to collaboration, and always trying to get better.
 
