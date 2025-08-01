@@ -44,7 +44,7 @@ Built an LLM-powered tool that takes input files and answers questions about the
 
 ## 📫 Contact Me
 
-- ✉️ Email: abhikshirsagar@gmail.com
+- ✉️ Email: abhijitk.work@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/abhijitkshirsagar](https://linkedin.com/in/abhijit-kshirsagar-093482259/)
 
 ---
