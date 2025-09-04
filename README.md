@@ -1,6 +1,6 @@
 # Hi, I'm Abhijit Kshirsagar
 
-I am a final year undergraduate student pursuing Engineering with an Honors in Deep Learning. I am currently exploring AIML, NLP, and Computer Vision through internships, online certifications, and hands-on projects.
+I am a final year undergraduate student pursuing Engineering with an Honors in Deep Learning. I am currently exploring AIML, Generative AI, LLMs and Computer Vision through internships, online certifications, and hands-on projects.
 
 This GitHub is a collection of the projects I have worked on, some course related, some self initiated, where I try to apply what I am learning to solve real-world problems in a simple and understandable way.
 
@@ -42,7 +42,7 @@ Built an LLM-powered tool that takes input files and answers questions about the
 ## 📫 Contact Me
 
 - ✉️ Email: abhijitk.work@gmail.com
-- 🔗 LinkedIn: https://linkedin.com/in/abhijit-kshirsagar-093482259/
+- 🔗 LinkedIn: https://linkedin.com/in/abhijitkshirsagar-exe/
 
 ---
 
