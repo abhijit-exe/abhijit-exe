@@ -72,13 +72,13 @@ Git • GitHub • Jupyter Notebook • Google Colab • Gradio • vLLM
 
 ## 💼 Experience
 
-### AI Intern — The Bodhi Tree
+### AI Intern at The Bodhi Tree
 
 * Fine-tuned Small and Large Language Models using LoRA and QLoRA
 * Worked on model optimization, routing, and deployment pipelines
 * Explored low-latency inference and self-hosted AI infrastructure
 
-### AI Intern — Persistent Systems
+### AI Intern at Persistent Systems
 
 * Developed transformer-based abstractive summarization systems
 * Fine-tuned T5 and BART models on multi-region datasets
