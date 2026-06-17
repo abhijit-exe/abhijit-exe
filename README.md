@@ -1,4 +1,4 @@
-# Hi, I'm Abhijit Kshirsagar 👋
+# Hi, I'm Abhijit Kshirsagar
 
 I am an undergraduate student pursuing Engineering with an Honors in Deep Learning
 
