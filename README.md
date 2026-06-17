@@ -1,51 +1,107 @@
-# Hi, I'm Abhijit Kshirsagar
+# Hi, I'm Abhijit Kshirsagar 👋
 
-I am a final year undergraduate student pursuing Engineering with an Honors in Deep Learning. I am currently exploring AIML, Generative AI, LLMs and Computer Vision through internships, online certifications, and hands-on projects.
+I am an undergraduate student pursuing Engineering with an Honors in Deep Learning
 
-This GitHub is a collection of the projects I have worked on, some course related, some self initiated, where I try to apply what I am learning to solve real-world problems in a simple and understandable way.
-
----
-
-## 🔧 Skills
-
-- **Languages**: Python, C++, Java, JavaScript
-- **Libraries/Frameworks**: PyTorch, TensorFlow, Scikit-Learn, Hugging Face, OpenCV
-- **NLP Tools**: T5, LLaMA, Transformers, NLTK
-- **Computer Vision**: TorchVision, YOLOv7
-- **Tools**: Google Colab, Jupyter, Git
+I'm passionate about **Artificial Intelligence, Generative AI, Large Language Models, Computer Vision, and Intelligent Systems**. I enjoy building practical AI solutions, exploring cutting-edge technologies, and applying machine learning to solve real-world problems.
 
 ---
 
-## 📌 Some Projects I am Proud Of
+## 🚀 Current Focus
+
+* Large Language Models (LLMs)
+* Generative AI Applications
+* LoRA / QLoRA Fine-Tuning
+* Retrieval-Augmented Generation (RAG)
+* AI Infrastructure & Model Optimization
+* Deep Learning for Time-Series and Multimodal Data
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+Python • Java • C++ • SQL • MATLAB
+
+**Machine Learning & AI**
+PyTorch • TensorFlow • Scikit-Learn • Hugging Face Transformers • NumPy • Pandas
+
+**LLMs & NLP**
+T5 • BART • LLaMA • RAG • LoRA • QLoRA • PEFT
+
+**Computer Vision**
+OpenCV • CNNs • YOLO
+
+**Tools & Platforms**
+Git • GitHub • Jupyter Notebook • Google Colab • Gradio • vLLM
+
+---
+
+## 📌 Featured Projects
+
+### Multimodal Sleep Stage Classification
+
+* Developed a CNN-LSTM-Transformer architecture for sleep stage prediction
+* Processed EEG, EOG, EMG, and respiratory signals
+* Achieved 83% classification accuracy across five sleep stages
+
+### AI-Based Smart Water Quality Monitoring System
+
+* Built machine learning models for Water Quality Index prediction
+* Developed contamination detection and disease outbreak forecasting pipelines
+* Published at IEEE PuneCon 2025
 
 ### T5 Text Summarizer
-Used Hugging Face’s `T5ForConditionalGeneration` to create a text summarizer with three modes: brief, medium, and detailed. Useful for summarizing articles, transcripts, or any general text.
+
+* Built a text summarization system using Hugging Face's T5 model
+* Supports brief, medium, and detailed summaries
+* Designed for summarizing articles, reports, transcripts, and general text
 
 ### Traffic Sign Recognition
-Built a CNN using TensorFlow/Keras to classify Indian and German traffic signs. Learned about data preprocessing, augmentation, and model evaluation through this.
 
-### Sleep Stage Classification
-Implemented a CNN-LSTM model trained on PSG and hypnogram data to classify sleep stages. This helped me understand multi-signal data handling and time-series learning.
+* Developed a CNN-based traffic sign classifier using TensorFlow/Keras
+* Trained on Indian and German traffic sign datasets
+* Applied preprocessing, augmentation, and model evaluation techniques
 
 ### Data Analyst Agent with LLaMA
-Built an LLM-powered tool that takes input files and answers questions about them using retrieval-augmented generation. Integrated with LLaMA-2 and used RAG basics.
+
+* Built an LLM-powered assistant for analyzing uploaded documents
+* Integrated LLaMA-2 with Retrieval-Augmented Generation (RAG)
+* Enabled natural language querying of structured and unstructured data
 
 ---
 
-## 👨‍💻 Internships & Experience
+## 💼 Experience
 
-- **Persistent Systems** – Interned in NLP domain; worked on culture specific summarization using custom LLMs.
-- Completed **Stanford's Machine Learning Specialization** and **TensorFlow Developer Certificate**
+### AI Intern — The Bodhi Tree
+
+* Fine-tuned Small and Large Language Models using LoRA and QLoRA
+* Worked on model optimization, routing, and deployment pipelines
+* Explored low-latency inference and self-hosted AI infrastructure
+
+### AI Intern — Persistent Systems
+
+* Developed transformer-based abstractive summarization systems
+* Fine-tuned T5 and BART models on multi-region datasets
+* Built data preprocessing and evaluation pipelines
 
 ---
 
-## 📫 Contact Me
+## 🏆 Highlights
 
-- ✉️ Email: abhijitk.work@gmail.com
-- 🔗 LinkedIn: https://linkedin.com/in/abhijitkshirsagar-exe/
+* IEEE PuneCon 2025 Research Publication
+* Smart India Hackathon 2025 – Round 2 Shortlisted
+* Indradhanu: AI for Climate Change Grand Challenge – Round 2 Shortlisted
+* Oracle Cloud Infrastructure Generative AI Professional
 
 ---
 
-Thanks for visiting!  
-This GitHub is still a work in progress, just like me. I am constantly learning, open to collaboration, and always trying to get better.
+## 🔗 Connect With Me
 
+Email: [abhijitk.work@gmail.com](mailto:abhijitk.work@gmail.com)
+LinkedIn: https://linkedin.com/in/abhijitkshirsagar-exe/
+GitHub: https://github.com/abhijit-exe
+LeetCode: https://leetcode.com/u/abhijit_kshirsagar/
+
+---
+
+*"Always learning, always building, and always curious about what's possible with AI."*
