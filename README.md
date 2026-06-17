@@ -4,7 +4,7 @@ I am an undergraduate student pursuing Engineering with an Honors in Deep Learni
 
 I'm passionate about **Artificial Intelligence, Generative AI, Large Language Models, Computer Vision, and Intelligent Systems**. I enjoy building practical AI solutions, exploring cutting-edge technologies, and applying machine learning to solve real-world problems.
 
----
+
 
 ## 🚀 Current Focus
 
@@ -15,7 +15,7 @@ I'm passionate about **Artificial Intelligence, Generative AI, Large Language Mo
 * AI Infrastructure & Model Optimization
 * Deep Learning for Time-Series and Multimodal Data
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -34,7 +34,7 @@ OpenCV • CNNs • YOLO
 **Tools & Platforms**
 Git • GitHub • Jupyter Notebook • Google Colab • Gradio • vLLM
 
----
+
 
 ## 📌 Featured Projects
 
@@ -68,7 +68,7 @@ Git • GitHub • Jupyter Notebook • Google Colab • Gradio • vLLM
 * Integrated LLaMA-2 with Retrieval-Augmented Generation (RAG)
 * Enabled natural language querying of structured and unstructured data
 
----
+
 
 ## 💼 Experience
 
@@ -84,7 +84,7 @@ Git • GitHub • Jupyter Notebook • Google Colab • Gradio • vLLM
 * Fine-tuned T5 and BART models on multi-region datasets
 * Built data preprocessing and evaluation pipelines
 
----
+
 
 ## 🏆 Highlights
 
@@ -93,7 +93,7 @@ Git • GitHub • Jupyter Notebook • Google Colab • Gradio • vLLM
 * Indradhanu: AI for Climate Change Grand Challenge – Round 2 Shortlisted
 * Oracle Cloud Infrastructure Generative AI Professional
 
----
+
 
 ## 🔗 Connect With Me
 
@@ -105,6 +105,6 @@ GitHub: https://github.com/abhijit-exe
 
 LeetCode: https://leetcode.com/u/abhijit_kshirsagar/
 
----
+
 
 *"Always learning, always building, and always curious about what's possible with AI."*
