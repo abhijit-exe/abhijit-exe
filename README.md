@@ -97,10 +97,13 @@ Git • GitHub • Jupyter Notebook • Google Colab • Gradio • vLLM
 
 ## 🔗 Connect With Me
 
-*Email: [abhijitk.work@gmail.com](mailto:abhijitk.work@gmail.com)
-*LinkedIn: https://linkedin.com/in/abhijitkshirsagar-exe/
-*GitHub: https://github.com/abhijit-exe
-*LeetCode: https://leetcode.com/u/abhijit_kshirsagar/
+Email: abhijit.kshirsagar0110@gmail.com
+
+LinkedIn: https://linkedin.com/in/abhijitkshirsagar-exe/
+
+GitHub: https://github.com/abhijit-exe
+
+LeetCode: https://leetcode.com/u/abhijit_kshirsagar/
 
 ---
 
