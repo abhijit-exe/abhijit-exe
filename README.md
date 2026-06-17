@@ -104,7 +104,3 @@ LinkedIn: https://linkedin.com/in/abhijitkshirsagar-exe/
 GitHub: https://github.com/abhijit-exe
 
 LeetCode: https://leetcode.com/u/abhijit_kshirsagar/
-
-
-
-*"Always learning, always building, and always curious about what's possible with AI."*
