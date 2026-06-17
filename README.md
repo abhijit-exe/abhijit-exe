@@ -6,7 +6,7 @@ I'm passionate about **Artificial Intelligence, Generative AI, Large Language Mo
 
 
 
-## 🚀 Current Focus
+## Current Focus
 
 * Large Language Models (LLMs)
 * Generative AI Applications
@@ -17,7 +17,7 @@ I'm passionate about **Artificial Intelligence, Generative AI, Large Language Mo
 
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 Python • Java • C++ • SQL • MATLAB
@@ -36,7 +36,7 @@ Git • GitHub • Jupyter Notebook • Google Colab • Gradio • vLLM
 
 
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### Multimodal Sleep Stage Classification
 
@@ -70,7 +70,7 @@ Git • GitHub • Jupyter Notebook • Google Colab • Gradio • vLLM
 
 
 
-## 💼 Experience
+## Work Experience
 
 ### AI Intern at The Bodhi Tree
 
@@ -86,7 +86,7 @@ Git • GitHub • Jupyter Notebook • Google Colab • Gradio • vLLM
 
 
 
-## 🏆 Highlights
+## Highlights
 
 * IEEE PuneCon 2025 Research Publication
 * Smart India Hackathon 2025 – Round 2 Shortlisted
@@ -95,7 +95,7 @@ Git • GitHub • Jupyter Notebook • Google Colab • Gradio • vLLM
 
 
 
-## 🔗 Connect With Me
+## Connect With Me
 
 Email: abhijitk.work@gmail.com
 
