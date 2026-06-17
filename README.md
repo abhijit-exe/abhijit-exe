@@ -97,7 +97,7 @@ Git • GitHub • Jupyter Notebook • Google Colab • Gradio • vLLM
 
 ## 🔗 Connect With Me
 
-Email: abhijit.kshirsagar0110@gmail.com
+Email: abhijitk.work@gmail.com
 
 LinkedIn: https://linkedin.com/in/abhijitkshirsagar-exe/
 
